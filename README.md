@@ -62,3 +62,22 @@ This project uses:
 - **Matplotlib** – plotting and visualization
 - **scikit-learn** – auxiliary analysis (e.g. dimensionality reduction, clustering)
 
+---
+
+## References
+- Rifai, S., Vincent, P., Muller, X., Glorot, X., & Bengio, Y.  
+  **Contractive Auto-Encoders: Explicit Invariance During Feature Extraction.**  
+  ICML 2011.  
+  PDF: https://icml.cc/2011/papers/455_icmlpaper.pdf
+
+- Kingma, D. P., & Welling, M.  
+  **Auto-Encoding Variational Bayes.**  
+  arXiv preprint arXiv:1312.6114, 2013.  
+  Abstract: https://arxiv.org/abs/1312.6114  
+  PDF: https://arxiv.org/pdf/1312.6114.pdf
+
+- van den Oord, A., Vinyals, O., & Kavukcuoglu, K.  
+  **Neural Discrete Representation Learning.**  
+  NeurIPS 2017.  
+  Abstract: https://arxiv.org/abs/1711.00937  
+  PDF: https://proceedings.neurips.cc/paper/7210-neural-discrete-representation-learning.pdf
